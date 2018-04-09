@@ -1,0 +1,27 @@
+{
+  "name": "insomnia-plugin-headers",
+  "version": "1.0.0",
+  "description": "Adds headers to requests via environment values",
+  "main": "plugin.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrew_waters/insomnia.plugin.headers.git"
+  },
+  "keywords": [
+    "insomnia",
+    "plugin",
+    "custom",
+    "header",
+    "headers"
+  ],
+  "insomnia": {
+    "name": "Add Headers to Requests",
+    "description": "Adds headers to requests via environment values"
+  },
+  "author": "andrew_waters",
+  "homepage": "https://github.com/andrew-waters/insomnia.plugin.headers#readme",
+  "bugs": {
+    "url": "https://github.com/andrew-waters/insomnia.plugin.headers/issues"
+  },
+  "license": "MIT"
+}
