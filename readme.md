@@ -14,7 +14,7 @@ To add your headers, open up the environment manager and create a `headers` obje
 {
     "headers": {
         "X-CUSTOM-HEADER": "your value",
-        "X-ANOTHER-CUSTOM-HEADER": "another value",
+        "X-ANOTHER-CUSTOM-HEADER": "another value"
     }
 }
 ```
