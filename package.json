@@ -1,6 +1,6 @@
 {
   "name": "insomnia-plugin-headers",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Adds headers to requests via environment values",
   "main": "plugin.js",
   "repository": {
